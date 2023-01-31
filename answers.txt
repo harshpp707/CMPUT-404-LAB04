@@ -1,0 +1,17 @@
+1. https://github.com/harshpp707/CMPUT-404-LAB04
+
+2. Browser shows the default django message on the port 8000 ."The install worked successfully! Congratulations!"
+
+3. Page not found. 404
+
+4. It tracks changes to the models and applies them to the database schema as necessary.
+
+5. We see all the models. admin.site.register(MODEL)
+
+6. Looking at question 38. Looking at the results of question 38. Voting on question 38. 
+I would get 404 page not found when I use string. Change int to str to allow any character.
+
+7. It won't work with different path if we hardcode url.
+
+8. Django does the hard work which we do not have to do. We can use generic views when there is a time 
+constraint but if we want to to implement any special feature that django can't support then we should not use generic view.
